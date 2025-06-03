@@ -1,0 +1,5 @@
+requests[socks]
+beautifulsoup4==4.12.2
+stem
+transformers
+argparse==1.4.0

@@ -1,0 +1,6 @@
+{
+    "reportMissingModuleSource": false,
+    "pythonVersion": "3.13",
+    "venvPath": ".",
+    "venv": "venv"
+} 
