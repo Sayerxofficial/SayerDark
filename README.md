@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SayerDark - Dark Web Market Monitor
 
 A powerful and flexible tool for monitoring dark web markets, analyzing site structures, and tracking product prices.
@@ -125,3 +126,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This tool is for educational and research purposes only. Users are responsible for complying with all applicable laws and regulations.
+=======
+# SayerDark
+Know the content of dark Internet sites without entering the dark Internet to protect your privacy
+>>>>>>> 85dc07c789761d79596e6e0a3bf1cf6c65d6b89f
